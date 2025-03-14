@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = environ.get("API_ID" , "2099007")
-API_HASH = environ.get("API_HASH" , "b1b3d7b3b1b3d7b3b1b3d7b3b1b3d7b3")
-BOT_TOKEN = environ.get("BOT_TOKEN" , "2099007:AAH1b3d7b3b1b3d7b3b1b3d7b3b1b3d7b3")
+API_ID = environ.get("API_ID" , "26785208")
+API_HASH = environ.get("API_HASH" , "0ddf86040a271eaa552c3fe159d1e541")
+BOT_TOKEN = environ.get("BOT_TOKEN" , "7448362382:AAFoUithRTORJ-mjjbBpAeOC_sdNr0sHCmE")
 ADMIN = int(environ.get("ADMIN" , "5397621246"))
 CHAT_GROUP = int(environ.get("CHAT_GROUP", "-1002118977067"))
 LOG_CHANNEL = environ.get("LOG_CHANNEL", "-1002022754984")
